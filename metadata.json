@@ -1,0 +1,8 @@
+{
+  "name": "Ghost AI",
+  "description": "Ultra Advanced Multi-Agent AI Assistant with voice, file analysis, and map capabilities.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
